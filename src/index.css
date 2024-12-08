@@ -54,3 +54,9 @@ a {
         max-width: 1536px;
     }
 }
+
+@media (min-width: 156px) {
+    .container {
+        max-width: 156px;
+    }
+}
